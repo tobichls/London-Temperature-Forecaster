@@ -9,6 +9,9 @@ This project harnesses the predictive power of the XGBoost machine learning algo
 - Visualization of missing data with seaborn
 - Performance evaluation of the predictive model
 
+## Performance Metrics
+The model's performance improved consistently over iterations, as reflected by the decreasing root mean square error (RMSE). The final cross-validation results showed an average RMSE of 2.9326 across folds, indicating a relatively low prediction error and strong model performance in forecasting London's temperature.
+
 ## Challenges Overcome
 I tackled missing values effectively by visualizing them with a heatmap and opted to drop rows with NaN values, which were minimal and did not affect the dataset significantly.
 
