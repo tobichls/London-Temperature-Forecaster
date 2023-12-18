@@ -19,8 +19,8 @@ The model successfully captures the yearly temperature trend, yet there is room 
 Clone the repository, download the dataset and model file, and execute the Jupyter Notebook to reproduce the forecast.
 
 ## Branches
-- `main`: Initial model using train-test split.
-- `updated-project`: Refined approach employing time series cross-validation for enhanced sophistication.
+- `version-1`: Initial model using train-test split.
+- `version-2`: Refined approach employing time series cross-validation for enhanced sophistication.
 
 ## Future Directions
 Plans to refine the model include leveraging additional dataset features like cloud cover and pressure, aiming for more detailed and accurate predictions.
