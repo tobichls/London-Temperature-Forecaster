@@ -26,6 +26,6 @@ Clone the repository, download the dataset and model file, and execute the Jupyt
 Plans to refine the model include leveraging additional dataset features like cloud cover and pressure, aiming for more detailed and accurate predictions.
 
 ## Collaboration and Contact
-This is an individual project, inspired by Rob Mulla's tutorial on YouTube. Feel free to reach out for discussions and collaborations.
+This is an individual project, inspired by Rob Mulla's tutorial on YouTube for a similar project. Feel free to reach out for discussions and collaborations.
 
 LinkedIn: [Tobi Fakoya](http://www.linkedin.com/in/tobi-fakoya)
