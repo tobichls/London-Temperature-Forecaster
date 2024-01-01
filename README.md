@@ -1,4 +1,4 @@
-# LondonTemperature-XGBoost-Predictor
+# London Temperature Forecaster
 
 ## Project Overview
 This project harnesses the predictive power of the XGBoost machine learning algorithm to forecast London's daily temperature trends using historical weather data sourced from [Kaggle](https://www.kaggle.com/datasets/emmanuelfwerr/london-weather-data). It showcases the evolution of the forecasting model through two versions, each on a separate branch within this repository.
